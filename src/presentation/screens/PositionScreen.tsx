@@ -63,6 +63,7 @@ const styles = StyleSheet.create({
         position: 'absolute'
     },
     textBox: {
+        justifyContent: 'center',
         backgroundColor: '#987ab1',
         borderWidth: 10,
         borderColor: 'white',
